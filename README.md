@@ -1,0 +1,2 @@
+# MagicTool
+ One Tool Solution
